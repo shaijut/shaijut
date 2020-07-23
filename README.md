@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**shaijut/shaijut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Full Stack .NET Developer  :)
 
 - 🔭 I’m currently working on .NET, SQL, KnockoutJS, Javascript, API
 - 🌱 I’m currently learning ... AI, Chatbot, Azure
