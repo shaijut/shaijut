@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I am Shaiju, Primarily a Backend Software Engineer in C# .NET 🖥️: but also a Full Stack Generalist or Software Engineer with some T-Shaped skills :smile:
+  I am Shaiju, Primarily a Backend Software Engineer in C# .NET 🖥️ but also a Full Stack Generalist or Software Engineer with some T-Shaped skills :smile:
   
 - :rocket: I have worked previously on C#, Asp.NET, MVC, WEB API, SQL Server, Mongo DB, Redis , HTML, CSS, Javascript, Knockout JS, SEO , Git, Azure deployments... 🛠️:
 - 🔭 I’m currently working on C#.NET, Oracle SQL, Odata REST API's.
