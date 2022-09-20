@@ -12,4 +12,4 @@
 - 📫 How to reach me: ... https://dev.to/shaijut and https://stackoverflow.com/users/2218697/shaijut
 - 😄 Pronouns: ... he/him
 
-- ⚡ Fun fact: ... Developers 90% Job is to figure out, why, how etc and only 10% we Code. :guitar: Someone said "Think twice , Code once." :smile: 👍 😂:
+- ⚡ Fun fact: ... Developers 90% Job is to figure out, why, how etc and only 10% we Code. :guitar: Someone said "Think twice , Code once." 👍 
