@@ -2,7 +2,8 @@
 
   I am Shaiju, Primarily a Backend Software Engineer in C# .NET 🖥️ but also a Full Stack Generalist or Software Engineer with some T-Shaped skills :smile:
   
-- :rocket: I have worked previously on C#, Asp.NET, MVC, WEB API, SQL Server, Mongo DB, Redis , HTML, CSS, Javascript, Knockout JS, SEO , Git, Azure deployments... 🛠️:
+- :rocket: I have worked previously on C#, Asp.NET, MVC, WEB API, SQL Server, Mongo DB, Redis , HTML, CSS, Javascript, Knockout JS, SEO , Git, Azure deployments... 🛠️
+
 - 🔭 I’m currently working on C#.NET, Oracle SQL, Odata REST API's.
 - 🌱 I have planned to learn/learning ... .Net Core, Angular, Azure, GCP.
 - 👯 I’m looking to collaborate on ... Open Source.
@@ -10,4 +11,5 @@
 - 💬 Ask me about ...  .NET , Web Development, SEO :)
 - 📫 How to reach me: ... https://dev.to/shaijut and https://stackoverflow.com/users/2218697/shaijut
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Developers 90% Job is to figure out, why, how etc and only 10% we Code. Someone said "Think twice , Code once." :smile: 👍 😂:
+-
+- ⚡ Fun fact: ... Developers 90% Job is to figure out, why, how etc and only 10% we Code. :guitar: Someone said "Think twice , Code once." :smile: 👍 😂:
