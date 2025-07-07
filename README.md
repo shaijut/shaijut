@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... Open Source.
 - 🤔 I’m looking for help with ...  UI / UX resources to learn.
 - 💬 Ask me about ...  .NET , Web Development, SEO :)
-- 📫 How to reach me: ... https://dev.to/shaijut and https://stackoverflow.com/users/2218697/shaijut
+- 📫 How to reach me: ... For now Open a issue in one my project 🙂
 - 😄 Pronouns: ... he/him
 
 - ⚡ Fun fact: ... Developers 90% Job is to figure out, why, how etc and only 10% we Code. :guitar: Someone said "Think twice , Code once." 👍 
